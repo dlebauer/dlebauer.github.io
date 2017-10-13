@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on David LeBauer</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on David LeBauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David LeBauer</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BETYdb: a yield, trait, and ecosystem service database applied to second-generation bioenergy feedstock production</title>
+      <link>/publication/lebauer2017betydb/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lebauer2017betydb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facilitating feedbacks between field measurements and ecosystem models.</title>
+      <link>/publication/lebauer2013pecan/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lebauer2013pecan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
